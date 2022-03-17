@@ -1,0 +1,11 @@
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#hootie{
+    display:flex;
+    justify-content: space-around;
+    text-align: center;
+    color: blueviolet;
+}
