@@ -9,3 +9,9 @@ h1 {
     text-align: center;
     color: blueviolet;
 }
+
+.cookie {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
